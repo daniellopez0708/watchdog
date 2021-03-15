@@ -1,0 +1,19 @@
+
+ocr_server_cred:
+  url: https://dev.cloudintegration.eu/
+  username: daniel.lopez@fellow-consulting.de
+  password: 1234
+
+
+incoming_bods_dir:
+  read: /Users/daniel.lopez/idm_watchdog/XMLs/Incoming_BoDs/Read
+  error: /Users/daniel.lopez/idm_watchdog/XMLs/Incoming_BoDs/ProcessedError
+  processed: /Users/daniel.lopez/idm_watchdog/XMLs/Incoming_BoDs/Processed
+
+outgoing_bods_dir:
+  write: /Users/daniel.lopez/idm_watchdog/XMLs/Outgoing_BoDs/Write
+
+ocr_dir:
+  ocr: /Users/daniel.lopez/idm_watchdog/OCR
+
+infor_ocr_processed_field: OCRProcessed
